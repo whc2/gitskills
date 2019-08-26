@@ -10,3 +10,10 @@ git checktou -b <name>  # creat and switch to a branch
 git merge <name>    # merge a branch with the current branch
 git branch -d <name>
 git log --graph --pretty=oneline --abbrev-commit
+
+# deal with bug
+git stash   # save working
+git stash list  # list stash
+git stash pop   # back to a stash and rm it
+git stash apply # back to a stash
+git stash drop  # rm stash
