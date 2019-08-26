@@ -10,6 +10,7 @@ git checktou -b <name>  # creat and switch to a branch
 git merge <name>    # merge a branch with the current branch
 git branch -d <name>
 git log --graph --pretty=oneline --abbrev-commit
+git branch -D <name>    # force rm branch
 
 # deal with bug
 git stash   # save working
