@@ -3,6 +3,7 @@ git remote add origin git@github.com:whc2/learn_git.git
 git push -u origin master
 git remote
 git remote -v
+git checkout -b dev origin/dev  # into local dev form a remote dev
 
 ## branch 
 git branch # check branch
