@@ -11,3 +11,6 @@ git merge <name>    # merge a branch with the current branch
 git branch -d <name>
 git log --graph --pretty=oneline --abbrev-commit
 git config --list
+git log -p -2
+git log --stat
+git log --since=2.weeks
