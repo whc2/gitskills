@@ -4,7 +4,7 @@
 -[张伟平](http://staff.ustc.edu.cn/~zwp/)
 
 ## Bioinf
--[ABC](http://abc.ic4r.org/)
+-[ABC](http://abc.ic4r.org/), [abc](http://abc.cbi.pku.edu.cn/)
 
 -[李恒](http://www.liheng.org/)
 
