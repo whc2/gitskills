@@ -14,3 +14,9 @@
 -[廖雪峰](https://www.liaoxuefeng.com/)
 
 -[酷壳](https://coolshell.cn/)
+
+-[GNU](https://www.gnu.org/)
+
+-[Linux](https://www.linux.org/)
+
+-[CS:APP](http://yiligong.org/csapp3e/)
