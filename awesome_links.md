@@ -10,6 +10,8 @@
 
 -[Attractive Chaos](https://attractivechaos.wordpress.com/)
 
+-[dazzler blog](https://dazzlerblog.wordpress.com/)
+
 ## Programming
 -[廖雪峰](https://www.liaoxuefeng.com/)
 
