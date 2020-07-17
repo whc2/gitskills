@@ -1,3 +1,46 @@
+## journals
+[Science](https://www.sciencemag.org/)
+
+[Nature](https://www.nature.com/)
+
+[Nature Genetics](https://www.nature.com/ng/)
+
+[Nature Reviews Genetics](https://www.nature.com/nrg/)
+
+[Plos Biology](https://journals.plos.org/plosbiology/)
+
+[Plos Computational Biology](https://journals.plos.org/ploscompbiol/)
+
+[Plos Genetics](https://journals.plos.org/plosgenetics/)
+
+[PNAS](https://www.pnas.org/)
+
+[Genome Research](https://genome.cshlp.org/)
+
+[Genome Biology](https://genomebiology.biomedcentral.com/)
+
+[Trends in Genetics](https://www.cell.com/trends/genetics/home)
+
+[Molecular Systems Biology](https://www.embopress.org/journal/17444292)
+
+[Genome Biology and Evolution](https://academic.oup.com/gbe/)
+
+[Bioinformatics](https://academic.oup.com/bioinformatics)
+
+[BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/)
+
+[Nucleic Acids Research](https://academic.oup.com/nar)
+
+[The Plant Cell](http://www.plantcell.org/)
+
+[Molecular Biology and Evolution](https://academic.oup.com/mbe)
+
+[Journal of Molecular Evolution](https://www.springer.com/journal/239)
+
+[BMC Evolutionary Biology](https://bmcevolbiol.biomedcentral.com/)
+
+
+
 ## Math
 -[黄正华](http://aff.whu.edu.cn/huangzh/)
 
