@@ -52,8 +52,8 @@
 topic |  people | intro
 ----- |  ------ | ------
 Math | [黄正华](http://aff.whu.edu.cn/huangzh/) | Chinese peo
-M     | [张伟平](http://staff.ustc.edu.cn/~zwp/) |
-M     | [Michael Bulmer](http://michaelbulmer.com/) |
+  |      [张伟平](http://staff.ustc.edu.cn/~zwp/) |
+  |      [Michael Bulmer](http://michaelbulmer.com/) |
 Bioinf | [ABC](http://abc.ic4r.org/), [abc](http://abc.cbi.pku.edu.cn/) |
 B       | [李恒](http://www.liheng.org/) |
 B       | [Attractive Chaos](https://attractivechaos.wordpress.com/) |
