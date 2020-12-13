@@ -1,9 +1,9 @@
 ## journals
 |<sub>Topic<sub>|<sub>Journals<sub>|<sub>Brief<sub>|
 |:-----------------|-------:|----:|
-  |<sub>Comprehensive</sub>|
+  |<sub>Comprehensive</sub>|<sub>[Science](https://www.sciencemag.org/)</sub>|
 
-[Science](https://www.sciencemag.org/)
+
 
 [Nature](https://www.nature.com/)
 
