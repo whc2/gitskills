@@ -3,6 +3,7 @@
 |:-----------------|-------:|----:|
   |<sub>Comprehensive</sub>|<sub>[Science](https://www.sciencemag.org/)</sub>|<sub>American journal</sub>|
   |                        |<sub>[Nature](https://www.nature.com/)</sub>     |<sub>English journal</sub> |
+  |                        |<sub>[PNAS](https://www.pnas.org/)</sub>         |<sub>           </sub>     |
 
 
 
@@ -18,7 +19,7 @@
 
 [Plos Genetics](https://journals.plos.org/plosgenetics/)
 
-[PNAS](https://www.pnas.org/)
+
 
 [Genome Research](https://genome.cshlp.org/)
 
