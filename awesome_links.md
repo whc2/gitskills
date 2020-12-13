@@ -49,7 +49,9 @@
 
 
 ## Math
--[黄正华](http://aff.whu.edu.cn/huangzh/)
+people | intro
+------ | ------
+[黄正华](http://aff.whu.edu.cn/huangzh/) | Chinese peo
 
 -[张伟平](http://staff.ustc.edu.cn/~zwp/)
 
