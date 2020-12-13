@@ -1,7 +1,7 @@
 ## journals
-|<sub>Journals<sub>|<sub>Brief<sub>|
-|:-----------------|-------:|
-|
+|<sub>Topic<sub>|<sub>Journals<sub>|<sub>Brief<sub>|
+|:-----------------|-------:|----:|
+  |<sub>Comprehensive</sub>|
 
 [Science](https://www.sciencemag.org/)
 
