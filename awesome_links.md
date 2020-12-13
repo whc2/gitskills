@@ -4,7 +4,7 @@
   |<sub>Comprehensive</sub>|<sub>[Science](https://www.sciencemag.org/)</sub>|<sub>American journal</sub>|
   |                        |<sub>[Nature](https://www.nature.com/)</sub>     |<sub>English journal</sub> |
   |                        |<sub>[PNAS](https://www.pnas.org/)</sub>         |<sub>           </sub>     |
-  |<sub>Biology      </sub>|<sub>[Nature Genetics](https://www.nature.com/ng/)</sub>||
+  |Biology      |<sub>[Nature Genetics](https://www.nature.com/ng/)</sub>||
   
 
 
