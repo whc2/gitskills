@@ -52,7 +52,7 @@
 topic |  people | intro
 ----- |  ------ | ------
 Math | [黄正华](http://aff.whu.edu.cn/huangzh/) | Chinese peo
-     | [张伟平](http://staff.ustc.edu.cn/~zwp/) |
+  m   | [张伟平](http://staff.ustc.edu.cn/~zwp/) |
      | [Michael Bulmer](http://michaelbulmer.com/) |
 Bioinf | [ABC](http://abc.ic4r.org/), [abc](http://abc.cbi.pku.edu.cn/) |
        | [李恒](http://www.liheng.org/) |
