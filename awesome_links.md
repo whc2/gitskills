@@ -2,7 +2,7 @@
 |<sub>Topic<sub>|<sub>Journals<sub>|<sub>Brief<sub>|
 |:-----------------|-------:|----:|
   |<sub>Comprehensive</sub>|<sub>[Science](https://www.sciencemag.org/)</sub>|<sub>American journal</sub>|
-  ||<sub>[Nature](https://www.nature.com/)</sub>|<sub>English journal</sub>|
+  |<sub>[Nature](https://www.nature.com/)</sub>|<sub>English journal</sub>|
 
 
 
