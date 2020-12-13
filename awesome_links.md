@@ -1,6 +1,6 @@
 ## journals
-|<sub>Journals<sub>|
-|:-----------------|
+|<sub>Journals<sub>|<sub>Brief<sub>|
+|:-----------------|-------:|
 |
 
 [Science](https://www.sciencemag.org/)
