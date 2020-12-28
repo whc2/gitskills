@@ -2,6 +2,10 @@
 assmbler | publication | author
 -------- | ----------- | ------
 hifi_asm | 
+Canu |
+Falcon |
+wtdbg2 |
+
 
 variation caller | publication | author
 ---------------- | ----------- | ------
