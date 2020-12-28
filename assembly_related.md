@@ -1,4 +1,7 @@
 # softwares
+### tools
+[ccs](https://github.com/PacificBiosciences/ccs)
+
 assmbler | publication | author
 -------- | ----------- | ------
 [hifi_asm](https://github.com/chhylp123/hifiasm) | 
