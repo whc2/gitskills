@@ -6,7 +6,7 @@ hifi_asm |
 variation caller | publication | author
 ---------------- | ----------- | ------
 [pbsv](https://github.com/PacificBiosciences/pbsv) | 
-
+Sniffles |
 
 
 # references
