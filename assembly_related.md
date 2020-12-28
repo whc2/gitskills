@@ -12,7 +12,7 @@ variation caller | publication | author
 ---------------- | ----------- | ------
 [pbsv](https://github.com/PacificBiosciences/pbsv) | 
 Sniffles |
-[deepvariant](https://github.com/google/deepvariant)| ｜ learning-based callers
+[deepvariant](https://github.com/google/deepvariant)| | learning-based callers
 [GATK] | | model-based callers
 
 
