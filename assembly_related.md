@@ -1,10 +1,12 @@
 # softwares
 assmbler | publication | author
 -------- | ----------- | ------
-hifi_asm | 
+[hifi_asm](https://github.com/chhylp123/hifiasm) | 
+[hifiasm-meta](https://github.com/xfengnefx/hifiasm-meta) | 
 Canu |
 Falcon |
 wtdbg2 |
+
 
 
 Assembly-based structural variant calls
