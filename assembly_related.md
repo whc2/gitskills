@@ -9,6 +9,7 @@ assmbler | publication | author
 Canu |
 Falcon |
 wtdbg2 |
+[Peregrine](https://github.com/cschin/peregrine) |
 
 
 
