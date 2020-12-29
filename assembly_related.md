@@ -7,9 +7,9 @@ assmbler | publication | author
 [hifi_asm](https://github.com/chhylp123/hifiasm) | 
 [hifiasm-meta](https://github.com/xfengnefx/hifiasm-meta) | 
 Canu |
-Falcon |
+Falcon | | Chen-Shan Chin
 wtdbg2 |
-[Peregrine](https://github.com/cschin/peregrine) |
+[Peregrine](https://github.com/cschin/peregrine) | [Human Genome Assembly in 100 Minutes](https://www.biorxiv.org/content/10.1101/705616v1) | Chen-Shan Chin
 
 
 
