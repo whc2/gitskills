@@ -8,7 +8,7 @@ assmbler | publication | author
 [hifiasm-meta](https://github.com/xfengnefx/hifiasm-meta) | 
 [Canu](https://github.com/marbl/canu) |
 Falcon | 2016 nm Phased diploid genome assembly with single-molecule real-time sequencing | Chen-Shan Chin
-wtdbg2 |
+[wtdbg2](https://github.com/ruanjue/wtdbg2) |
 [Peregrine](https://github.com/cschin/peregrine) | 2019 [Human Genome Assembly in 100 Minutes](https://www.biorxiv.org/content/10.1101/705616v1) | Chen-Shan Chin
 
 
