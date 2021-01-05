@@ -21,6 +21,10 @@ Sniffles |
 [deepvariant](https://github.com/google/deepvariant)| | learning-based callers
 [GATK] | | model-based callers
 
+### evaluation
+methods | publication | author
+------- | ----------- | ------
+[BUSCO](https://busco.ezlab.org/) | |
 
 # references
 [protocal for ccs](https://www.biorxiv.org/content/10.1101/519025v2)
