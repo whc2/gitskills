@@ -25,6 +25,7 @@ Sniffles |
 methods | publication | author
 ------- | ----------- | ------
 [BUSCO](https://busco.ezlab.org/) | |
+[yak](https://github.com/lh3/yak) qv | | 
 
 # references
 [protocal for ccs](https://www.biorxiv.org/content/10.1101/519025v2)
