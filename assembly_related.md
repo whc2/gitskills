@@ -1,6 +1,8 @@
 # softwares
 ### tools
 [ccs](https://github.com/PacificBiosciences/ccs)
+[purge_dups](https://github.com/dfguan/purge_dups)
+
 
 assmbler | publication | author
 -------- | ----------- | ------
