@@ -37,5 +37,7 @@ methods | publication | author
 
 [iso-seq example](https://downloads.pacbcloud.com/public/dataset/redwood2020/isoseq/)
 
+[intro rna-seq](https://mbernste.github.io/posts/rna_seq_basics/)
+
 # references
 [protocal for ccs](https://www.biorxiv.org/content/10.1101/519025v2)
