@@ -22,6 +22,7 @@ variation caller | publication | author
 Sniffles |
 [deepvariant](https://github.com/google/deepvariant)| | learning-based callers
 [GATK] | | model-based callers
+[Bonito](https://github.com/nanoporetech/bonito) | |
 
 ### evaluation
 methods | publication | author
