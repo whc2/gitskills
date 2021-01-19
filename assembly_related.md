@@ -29,6 +29,7 @@ methods | publication | author
 [BUSCO](https://busco.ezlab.org/) | |
 [yak](https://github.com/lh3/yak) qv | | yak count -b37 -t <nThreads> -o <sr.yak> <short-reads.fastq>; yak qv -t <nThreads> <sr.yak> <contigs.fa>
 [LTR_retriever](https://github.com/oushujun/LTR_retriever) | |
+[pacbio discuss](https://www.pacb.com/blog/beyond-contiguity/) | |
 
 # references
 [protocal for ccs](https://www.biorxiv.org/content/10.1101/519025v2)
