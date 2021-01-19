@@ -31,5 +31,8 @@ methods | publication | author
 [LTR_retriever](https://github.com/oushujun/LTR_retriever) | |
 [pacbio discuss](https://www.pacb.com/blog/beyond-contiguity/) | |
 
+# annotation
+[pacbio full length transcriptome](https://www.pacb.com/applications/rna-sequencing/)
+
 # references
 [protocal for ccs](https://www.biorxiv.org/content/10.1101/519025v2)
