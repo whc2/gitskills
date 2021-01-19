@@ -34,5 +34,7 @@ methods | publication | author
 # annotation
 [pacbio full length transcriptome](https://www.pacb.com/applications/rna-sequencing/)
 
+[iso-seq example](https://downloads.pacbcloud.com/public/dataset/redwood2020/isoseq/)
+
 # references
 [protocal for ccs](https://www.biorxiv.org/content/10.1101/519025v2)
