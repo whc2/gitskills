@@ -31,6 +31,8 @@ methods | publication | author
 [yak](https://github.com/lh3/yak) qv | | yak count -b37 -t <nThreads> -o <sr.yak> <short-reads.fastq>; yak qv -t <nThreads> <sr.yak> <contigs.fa>
 [LTR_retriever](https://github.com/oushujun/LTR_retriever) | |
 [pacbio discuss](https://www.pacb.com/blog/beyond-contiguity/) | |
+[merqury](https://github.com/marbl/merqury) | |
+
 
 # annotation
 [pacbio full length transcriptome](https://www.pacb.com/applications/rna-sequencing/)
