@@ -41,5 +41,9 @@ methods | publication | author
 
 [intro rna-seq](https://mbernste.github.io/posts/rna_seq_basics/)
 
+[RepeatModeler](https://github.com/Dfam-consortium/RepeatModeler), [http://www.repeatmasker.org/RepeatModeler/](http://www.repeatmasker.org/RepeatModeler/)
+
+[Dfam](https://www.dfam.org/classification/tree)
+
 # references
 [protocal for ccs](https://www.biorxiv.org/content/10.1101/519025v2)
