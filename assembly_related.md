@@ -20,7 +20,7 @@ Assembly-based structural variant calls
 variation caller | publication | author
 ---------------- | ----------- | ------
 [pbsv](https://github.com/PacificBiosciences/pbsv) | 
-Sniffles |
+[Sniffles](https://github.com/fritzsedlazeck/Sniffles) |
 [deepvariant](https://github.com/google/deepvariant)| | learning-based callers, [hifi usage](https://github.com/google/deepvariant/blob/r1.0/docs/deepvariant-pacbio-model-case-study.md)
 [GATK] | | model-based callers
 [Bonito](https://github.com/nanoporetech/bonito) | |
