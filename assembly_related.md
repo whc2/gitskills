@@ -14,7 +14,7 @@ Falcon | 2016 nm Phased diploid genome assembly with single-molecule real-time s
 [Peregrine](https://github.com/cschin/peregrine) | 2019 [Human Genome Assembly in 100 Minutes](https://www.biorxiv.org/content/10.1101/705616v1) | Chen-Shan Chin
 [Necat](https://github.com/xiaochuanle/NECAT) | |
 [shasta](https://github.com/chanzuckerberg/shasta) | |
-
+[Hinge](https://github.com/HingeAssembler/HINGE) | | 
 
 
 Assembly-based structural variant calls
