@@ -16,6 +16,7 @@ Falcon | 2016 nm Phased diploid genome assembly with single-molecule real-time s
 [shasta](https://github.com/chanzuckerberg/shasta) | |
 [Hinge](https://github.com/HingeAssembler/HINGE) | | 
 [wengan](https://github.com/adigenova/wengan) | | 
+[spades](https://cab.spbu.ru/software/spades/) | |
 
 Assembly-based structural variant calls
 variation caller | publication | author
