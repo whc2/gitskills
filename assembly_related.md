@@ -18,6 +18,14 @@ Falcon | 2016 nm Phased diploid genome assembly with single-molecule real-time s
 [wengan](https://github.com/adigenova/wengan) | | 
 [spades](https://cab.spbu.ru/software/spades/) | |
 
+### assembly polish
+polisher | specific to | 
+-------- | ----------- | 
+[Nanopolish](https://github.com/jts/nanopolish) | Nanopore original signals?? |
+[medaka](https://nanoporetech.github.io/medaka/index.html) | Nanopore |
+[pepper](https://github.com/kishwarshafin/pepper) | Nanopore | 
+
+
 Assembly-based structural variant calls
 variation caller | publication | author
 ---------------- | ----------- | ------
