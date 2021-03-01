@@ -24,6 +24,7 @@ polisher | specific to |
 [Nanopolish](https://github.com/jts/nanopolish) | Nanopore original signals?? |
 [medaka](https://nanoporetech.github.io/medaka/index.html) | Nanopore reads |
 [pepper](https://github.com/kishwarshafin/pepper) | Nanopore | 
+[Racon](https://github.com/isovic/racon) | |
 
 
 Assembly-based structural variant calls
