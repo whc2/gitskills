@@ -21,7 +21,7 @@ Falcon | 2016 nm Phased diploid genome assembly with single-molecule real-time s
 ### assembly polish
 polisher | specific to | 
 -------- | ----------- | 
-[Nanopolish](https://github.com/jts/nanopolish) | Nanopore original signals?? |
+[Nanopolish](https://github.com/jts/nanopolish) | Nanopore original signals [doc](https://nanopolish.readthedocs.io/en/latest/index.html) |
 [medaka](https://nanoporetech.github.io/medaka/index.html) | Nanopore reads |
 [pepper](https://github.com/kishwarshafin/pepper) | Nanopore | 
 [Racon](https://github.com/isovic/racon) | |
