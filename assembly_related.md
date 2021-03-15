@@ -1,6 +1,9 @@
 # softwares
 ### tools
+[long read tools summary](https://long-read-tools.org/index.html)
+
 [ccs](https://github.com/PacificBiosciences/ccs)
+
 [purge_dups](https://github.com/dfguan/purge_dups)
 
 
