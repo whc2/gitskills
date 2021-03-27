@@ -20,6 +20,7 @@ Falcon | 2016 nm Phased diploid genome assembly with single-molecule real-time s
 [Hinge](https://github.com/HingeAssembler/HINGE) | | 
 [wengan](https://github.com/adigenova/wengan) | | 
 [spades](https://cab.spbu.ru/software/spades/) | |
+[NextDenovo](https://github.com/Nextomics/NextDenovo) | |
 
 ### assembly polish
 polisher | specific to | 
