@@ -1,0 +1,10 @@
+# repeat
+[LTR_retriever](https://github.com/oushujun/LTR_retriever)
+
+# gene structure annotation
+[BRAKER](https://github.com/Gaius-Augustus/BRAKER)
+
+[Augustus](https://github.com/Gaius-Augustus/Augustus)
+
+# experiences from others
+[基因组注释xu](http://xuzhougeng.top/archives/How-to-annotate-your-genome)
