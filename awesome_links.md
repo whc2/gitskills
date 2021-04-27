@@ -40,6 +40,7 @@ Bioinf | [ABC](http://abc.gao-lab.org/), [abc](https://bigd.big.ac.cn/education/
   |     | [dazzler blog](https://dazzlerblog.wordpress.com/) |
   |     | [Steven Salzberg](http://genome.fieldofscience.com/)
   |     | [Xiaole Liu](https://www.longwoodgenomics.org/)
+  |     | [Dave Tang](https://davetang.org/muse/)
 Evolut | [Joe Felsenstein](https://evolution.genetics.washington.edu/felsenstein.html) |
 Progra | [廖雪峰](https://www.liaoxuefeng.com/) |
  |     | [酷壳](https://coolshell.cn/) |
