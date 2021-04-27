@@ -6,5 +6,7 @@
 
 [Augustus](https://github.com/Gaius-Augustus/Augustus)
 
+[PASA](https://github.com/PASApipeline/PASApipeline)
+
 # experiences from others
 [基因组注释xu](http://xuzhougeng.top/archives/How-to-annotate-your-genome)
