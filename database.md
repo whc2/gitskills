@@ -11,3 +11,9 @@
 
 # Using database
 [sqlite](https://sqlite.org/index.html)
+
+# Projects
+[Human Pangenome](https://humanpangenome.org/)
+[Tree of life](https://www.darwintreeoflife.org/)
+[erga](https://www.erga-biodiversity.eu/)
+[vgp](https://vertebrategenomesproject.org/)
