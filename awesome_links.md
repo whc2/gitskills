@@ -47,3 +47,4 @@ Progra | [廖雪峰](https://www.liaoxuefeng.com/) |
  |     | [GNU](https://www.gnu.org/) |
  |     | [Linux](https://www.linux.org/) |
  |     | [CS:APP](http://yiligong.org/csapp3e/) | 
+ |     | [Matt Might](http://matt.might.net/articles/) | Professor of Internal Medicine and Computer Science
