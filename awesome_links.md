@@ -3,6 +3,7 @@
 |:-----------------|-------:|----:|
   |Comprehensive|[Science](https://www.sciencemag.org/)|American journal|
   |             |[Nature](https://www.nature.com/)     |English journal |
+  |             |[Cell](https://www.cell.com/cell/home)|                |
   |             |[PNAS](https://www.pnas.org/)         |                |
   |             |[nature communications](https://www.nature.com/ncomms/)||
   |Biology      |[Nature Genetics](https://www.nature.com/ng/)||
