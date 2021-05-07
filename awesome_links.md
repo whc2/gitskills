@@ -25,6 +25,7 @@
   |                |[New Phytologist](https://nph.onlinelibrary.wiley.com/journal/14698137)||
   |                |[Horticulture Research](http://hortres.com/)||
   |                |[The Plant Journal](https://onlinelibrary.wiley.com/journal/1365313x)||
+  |                |[Nature Plant](https://www.nature.com/nplants/)||
   |Review          |[Trends in Genetics](https://www.cell.com/trends/genetics/home)||
   |                |[Nature Reviews Genetics](https://www.nature.com/nrg/)||
 
