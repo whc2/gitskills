@@ -9,6 +9,8 @@
 
 [Fungal Genome Size Database](http://www.zbi.ee/fungal-genomesize/)
 
+[Telomere](http://telomerase.asu.edu/sequences_telomere.html)
+
 # Using database
 [sqlite](https://sqlite.org/index.html)
 
