@@ -5,6 +5,7 @@
 
 [Dfam](https://www.dfam.org/home)
 
+[RepeatMasker](https://github.com/rmhubley/RepeatMasker)
 
 # gene structure annotation
 [BRAKER](https://github.com/Gaius-Augustus/BRAKER)
