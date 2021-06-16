@@ -1,6 +1,11 @@
 # repeat
 [LTR_retriever](https://github.com/oushujun/LTR_retriever)
 
+[RepBase](https://www.girinst.org/)
+
+[Dfam](https://www.dfam.org/home)
+
+
 # gene structure annotation
 [BRAKER](https://github.com/Gaius-Augustus/BRAKER)
 
