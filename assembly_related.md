@@ -23,6 +23,7 @@ Falcon | 2016 nm Phased diploid genome assembly with single-molecule real-time s
 [spades](https://cab.spbu.ru/software/spades/) | |
 [NextDenovo](https://github.com/Nextomics/NextDenovo) | |
 [raven](https://github.com/lbcb-sci/raven) | |
+[HERA](https://github.com/liangclab/HERA) | |
 
 ### assembly polish
 polisher | specific to | 
