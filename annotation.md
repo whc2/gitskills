@@ -17,5 +17,9 @@
 [EVidenceModeler](https://evidencemodeler.github.io/)
 
 
+# gene function annotation
+[Pfam](https://pfam.xfam.org/)
+
+
 # experiences from others
 [基因组注释xu](http://xuzhougeng.top/archives/How-to-annotate-your-genome)
