@@ -54,6 +54,10 @@ methods | publication | author
 [pacbio discuss](https://www.pacb.com/blog/beyond-contiguity/) | |
 [merqury](https://github.com/marbl/merqury) | |
 
+### Hi-C process
+methods | publication | author
+------- | ----------- | -------
+[HiC-Pro](https://github.com/nservant/HiC-Pro) | |
 
 # annotation
 [pacbio full length transcriptome](https://www.pacb.com/applications/rna-sequencing/)
