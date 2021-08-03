@@ -16,7 +16,7 @@
 
 [EVidenceModeler](https://evidencemodeler.github.io/)
 
-
+[SQANTI3](https://github.com/ConesaLab/SQANTI3)
 # gene function annotation
 [Pfam](https://pfam.xfam.org/)
 
