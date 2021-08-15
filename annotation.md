@@ -17,6 +17,9 @@
 [EVidenceModeler](https://evidencemodeler.github.io/)
 
 [SQANTI3](https://github.com/ConesaLab/SQANTI3)
+
+[cDNA_Cupcake](https://github.com/Magdoll/cDNA_Cupcake)
+
 # gene function annotation
 [Pfam](https://pfam.xfam.org/)
 
