@@ -62,6 +62,7 @@ methods | publication | author
 [juicer](https://github.com/aidenlab/juicer) | |
 [3d-dna](https://github.com/aidenlab/3d-dna) | |
 [SALSA](https://github.com/marbl/SALSA) | |
+[scaffHiC](https://github.com/wtsi-hpag/scaffHiC) | |
 
 # annotation
 [pacbio full length transcriptome](https://www.pacb.com/applications/rna-sequencing/)
