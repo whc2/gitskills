@@ -7,6 +7,8 @@
 
 [RepeatMasker](https://github.com/rmhubley/RepeatMasker)
 
+[EDTA](https://github.com/oushujun/EDTA)
+
 # gene structure annotation
 [BRAKER](https://github.com/Gaius-Augustus/BRAKER)
 
