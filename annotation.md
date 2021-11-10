@@ -21,7 +21,7 @@
 [cDNA_Cupcake](https://github.com/Magdoll/cDNA_Cupcake)
 
 # non-coding RNA
-[Canada list](https://molbiol-tools.ca/RNA_analysis.htm)
+[Canada list](https://molbiol-tools.ca/RNA_analysis.htm), also have many other lists.
 
 # gene function annotation
 [Pfam](https://pfam.xfam.org/)
