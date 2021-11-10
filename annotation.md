@@ -24,6 +24,7 @@
 
 # non-coding RNA
 [Canada list](https://molbiol-tools.ca/RNA_analysis.htm), also have many other lists.
+[Infernal](http://eddylab.org/infernal/)
 
 # gene function annotation
 [Pfam](https://pfam.xfam.org/)
