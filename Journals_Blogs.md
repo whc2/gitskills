@@ -27,6 +27,7 @@
   |                |[Horticulture Research](http://hortres.com/)||
   |                |[The Plant Journal](https://onlinelibrary.wiley.com/journal/1365313x)||
   |                |[Nature Plant](https://www.nature.com/nplants/)||
+  |                |[Molecular Plant](https://www.cell.com/molecular-plant/home)||
   |Review          |[Trends in Genetics](https://www.cell.com/trends/genetics/home)||
   |                |[Nature Reviews Genetics](https://www.nature.com/nrg/)||
 
