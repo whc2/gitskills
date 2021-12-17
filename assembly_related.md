@@ -36,7 +36,7 @@ polisher | specific to |
 [Racon](https://github.com/isovic/racon) | |
 
 
-Assembly-based structural variant calls
+### Assembly-based structural variant calls
 variation caller | publication | author
 ---------------- | ----------- | ------
 [pbsv](https://github.com/PacificBiosciences/pbsv) | 
@@ -44,6 +44,7 @@ variation caller | publication | author
 [deepvariant](https://github.com/google/deepvariant)| | learning-based callers, [hifi usage](https://github.com/google/deepvariant/blob/r1.0/docs/deepvariant-pacbio-model-case-study.md)
 [GATK] | | model-based callers
 [Bonito](https://github.com/nanoporetech/bonito) | |
+https://medium.com/dnanexus/an-exploration-of-machine-learning-based-variant-callers-for-snv-and-small-indel-using-pacbio-hifi-f6efec6bee04
 
 ### evaluation
 methods | publication | author
