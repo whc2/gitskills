@@ -67,6 +67,8 @@ methods | publication | author
 [pin_hic](https://github.com/dfguan/pin_hic) | |
 [Homer](http://homer.ucsd.edu/homer/interactions/) | |
 [Cooltools](https://cooltools.readthedocs.io/en/latest/) | |
+[cooler](https://github.com/open2c/cooler) | |
+[pairtool](https://github.com/open2c/pairtools) | |
 
 # annotation
 [pacbio full length transcriptome](https://www.pacb.com/applications/rna-sequencing/)
