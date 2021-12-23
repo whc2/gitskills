@@ -60,11 +60,13 @@ methods | publication | author
 ------- | ----------- | -------
 [HiC-Pro](https://github.com/nservant/HiC-Pro) | |
 [ALLHiC](https://github.com/tangerzhang/ALLHiC) | |
-[juicer](https://github.com/aidenlab/juicer) | |
+[juicer](https://github.com/aidenlab/juicer) | | Arrowhead for finding contact domains
 [3d-dna](https://github.com/aidenlab/3d-dna) | |
 [SALSA](https://github.com/marbl/SALSA) | |
 [scaffHiC](https://github.com/wtsi-hpag/scaffHiC) | |
 [pin_hic](https://github.com/dfguan/pin_hic) | |
+[Homer](http://homer.ucsd.edu/homer/interactions/) | |
+[Cooltools](https://cooltools.readthedocs.io/en/latest/) | |
 
 # annotation
 [pacbio full length transcriptome](https://www.pacb.com/applications/rna-sequencing/)
