@@ -64,6 +64,7 @@ methods | publication | author
 [3d-dna](https://github.com/aidenlab/3d-dna) | |
 [SALSA](https://github.com/marbl/SALSA) | |
 [scaffHiC](https://github.com/wtsi-hpag/scaffHiC) | |
+[pin_hic](https://github.com/dfguan/pin_hic) | |
 
 # annotation
 [pacbio full length transcriptome](https://www.pacb.com/applications/rna-sequencing/)
