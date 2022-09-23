@@ -9,13 +9,26 @@
   |Biology      |[Nature Genetics](https://www.nature.com/ng/)||
   |             |[Plos Genetics](https://journals.plos.org/plosgenetics/)||
   |             |[Plos Biology](https://journals.plos.org/plosbiology/)||
-  |Gegome & Bioinfo|[Plos Computational Biology](https://journals.plos.org/ploscompbiol/)||
+  |Bioinfo         |[Plos Computational Biology](https://journals.plos.org/ploscompbiol/)||
   |                |[Genome Research](https://genome.cshlp.org/)||
   |                |[Genome Biology](https://genomebiology.biomedcentral.com/)||
   |                |[Bioinformatics](https://academic.oup.com/bioinformatics)||
   |                |[BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/)||
   |                |[Nucleic Acids Research](https://academic.oup.com/nar)||
   |                |[gigascience](https://academic.oup.com/gigascience)||
+  |                |[BioData Mining](https://biodatamining.biomedcentral.com/)||
+  |                |[Evolutionary Bioinformatics](https://journals.sagepub.com/home/evb)||
+  |                |[Bioinformatics and Biology Insights](https://journals.sagepub.com/home/bbi)||
+  |                |[IEEE/ACM Transactions on Computational Biology and Bioinformatics](https://www.computer.org/csdl/journal/tb)||
+  |                |[Briefings in Bioinformatics](https://academic.oup.com/bib)||
+  |                |[Journal of Bioinformatics and Computational Biology](https://www.worldscientific.com/worldscinet/jbcb)||
+  |                |[Journal of Biomedical Informatics](https://www.sciencedirect.com/journal/journal-of-biomedical-informatics)||
+  |                |[Computational and Structural Biotechnology Journal](https://www.sciencedirect.com/journal/computational-and-structural-biotechnology-journal)||
+  |                |[Journal of Computational Biology](https://home.liebertpub.com/publications/journal-of-computational-biology/31)||
+  |                |[Computational Biology and Chemistry](https://www.sciencedirect.com/journal/computational-biology-and-chemistry)||
+  |                |[Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine)||
+  |                |[Current Bioinformatics](https://benthamscience.com/public/journals/current-bioinformatics)||
+  |                |[Database (journal)](https://academic.oup.com/database)||
   |Evolution       |[Molecular Biology and Evolution](https://academic.oup.com/mbe)||
   |                |[Journal of Molecular Evolution](https://www.springer.com/journal/239)||
   |                |[Genome Biology and Evolution](https://academic.oup.com/gbe/)||
