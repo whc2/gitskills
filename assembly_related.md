@@ -27,6 +27,7 @@ Falcon | 2016 nm Phased diploid genome assembly with single-molecule real-time s
 [RagTag](https://github.com/malonge/RagTag) | |
 [MARVEL](https://github.com/schloi/MARVEL/) | |
 [LJA](https://github.com/AntonBankevich/LJA) | |
+[Flye](https://github.com/fenderglass/Flye)  | |
 
 ### assembly polish
 polisher | specific to | 
