@@ -52,10 +52,12 @@ https://medium.com/dnanexus/an-exploration-of-machine-learning-based-variant-cal
 methods | publication | author
 ------- | ----------- | ------
 [BUSCO](https://busco.ezlab.org/) | |
+[compleasm](https://github.com/huangnengCSU/compleasm) | | 
 [yak](https://github.com/lh3/yak) qv | | yak count -b37 -t <nThreads> -o <sr.yak> <short-reads.fastq>; yak qv -t <nThreads> <sr.yak> <contigs.fa>
 [LTR_retriever](https://github.com/oushujun/LTR_retriever) | |
 [pacbio discuss](https://www.pacb.com/blog/beyond-contiguity/) | |
 [merqury](https://github.com/marbl/merqury) | |
+
 
 ### Hi-C process
 methods | publication | author
