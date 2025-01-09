@@ -41,6 +41,8 @@ polisher | specific to |
 ### Assembly-based structural variant calls
 variation caller | publication | author
 ---------------- | ----------- | ------
+[minisv](https://github.com/lh3/minisv) | | 
+[dipcall](https://github.com/lh3/dipcall) | | 
 [pbsv](https://github.com/PacificBiosciences/pbsv) | 
 [Sniffles](https://github.com/fritzsedlazeck/Sniffles) |
 [deepvariant](https://github.com/google/deepvariant)| | learning-based callers, [hifi usage](https://github.com/google/deepvariant/blob/r1.0/docs/deepvariant-pacbio-model-case-study.md)
