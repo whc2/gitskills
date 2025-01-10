@@ -42,6 +42,7 @@ polisher | specific to |
 variation caller | publication | author
 ---------------- | ----------- | ------
 [minisv](https://github.com/lh3/minisv) | | 
+[svim-asm](https://github.com/eldariont/svim-asm) | |
 [dipcall](https://github.com/lh3/dipcall) | | 
 [pbsv](https://github.com/PacificBiosciences/pbsv) | 
 [Sniffles](https://github.com/fritzsedlazeck/Sniffles) |
