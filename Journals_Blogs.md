@@ -41,6 +41,12 @@
   |                |[The Plant Journal](https://onlinelibrary.wiley.com/journal/1365313x)||
   |                |[Nature Plant](https://www.nature.com/nplants/)||
   |                |[Molecular Plant](https://www.cell.com/molecular-plant/home)||
+  |                |[Annual Review of Plant Biology](https://www.annualreviews.org/content/journals/arplant)||
+  |                |[Trends in Plant Science](https://www.cell.com/trends/plant-science/home)||
+  |                |[Aritificial Intelligence in Agriculture]()||
+  |                |[Plant Communications](https://www.cell.com/plant-communications/home)||
+  |                |[Journal of Integrative Plant Biology](https://www.jipb.net/EN/1672-9072/home.shtml)||
+  |      
   |Review          |[Trends in Genetics](https://www.cell.com/trends/genetics/home)||
   |                |[Nature Reviews Genetics](https://www.nature.com/nrg/)||
 
