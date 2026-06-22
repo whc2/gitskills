@@ -46,7 +46,13 @@
   |                |[Aritificial Intelligence in Agriculture]()||
   |                |[Plant Communications](https://www.cell.com/plant-communications/home)||
   |                |[Journal of Integrative Plant Biology](https://www.jipb.net/EN/1672-9072/home.shtml)||
-  |      
+  |                |[Agriculture Communications](https://www.sciencedirect.com/journal/agriculture-communications)||
+  |                |[Phytomedicine](https://www.sciencedirect.com/journal/phytomedicine)||
+  |                |[Molecular Horticulture](https://link.springer.com/journal/43897)||
+  |                |[aBIOTECH](https://www.sciencedirect.com/journal/abiotech)||
+  |                |[Plant Physiology](https://academic.oup.com/plphys)||
+  |                |[Plant Phenomics](https://www.sciencedirect.com/journal/plant-phenomics)||
+  |                |[Crop Journal](https://www.sciencedirect.com/journal/the-crop-journal)||
   |Review          |[Trends in Genetics](https://www.cell.com/trends/genetics/home)||
   |                |[Nature Reviews Genetics](https://www.nature.com/nrg/)||
 
